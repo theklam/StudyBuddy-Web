@@ -974,6 +974,11 @@ a.btn-enter:hover, .btn-enter:focus {
   width: 200px;
   height: 60px;
 }
+.getstartednow-btn {
+	background: url('img/stores/btn-get-started.png');
+  width: 200px;
+  height: 60px;
+}
 .windows-btn {
   background: url('img/stores/btn-windows-store.png');
   width: 200px;
